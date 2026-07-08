@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Hey+there%2C+Divyadharshini+here!;Let's+start+building+%E2%9C%A8;ML%2FAI+Student+%26+Portfolio+Builder;ML+Lead+%40+ShiftSafe+AI+(IEEE+CS+Bangalore)" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Hey+there%2C+Divyadharshini+here!;Let's+start+building+%E2%9C%A8;ML+Lead+%40+ShiftSafe+AI+(IEEE+CS+Bangalore)" alt="Typing SVG" /></a>
 
 </div>
 
