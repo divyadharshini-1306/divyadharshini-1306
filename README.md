@@ -73,15 +73,6 @@ divyadharshini = {
 
 ---
 
-**Mutual Fund Fraud & Style Drift Detector** *(in progress)*
-> Applied ML for fintech — detecting anomalous fund behavior and style drift
-
-- Completed foundational theory phase, now moving into implementation
-- Focused on detecting deviations in fund manager behavior against stated investment style
-
-`Python` `Time Series` `Anomaly Detection`
-
----
 
 ## Tech
 
