@@ -21,15 +21,10 @@
 
 ML/AI student at PES University with a concept-first approach to learning  I prefer to deeply understand the theory before touching implementation. Currently a third-year Computer Science student, leading the ML workstream on **ShiftSafe AI**, an occupational air quality exposure prediction system, as part of the IEEE CS Bangalore Chapter Internship and Mentorship Program 2026.
 
-Alongside that, I'm building out a personal ML portfolio spanning deep learning fundamentals and applied fintech ML.
 
 ```python
 divyadharshini = {
-    "role":      "ML Lead @ ShiftSafe AI (IEEE CS Bangalore, IMP 2026)",
     "focus":     ["machine learning", "deep learning", "applied AI"],
-    "building":  ["ShiftSafe AI - exposure prediction system",
-                  "Mutual Fund Fraud & Style Drift Detector",
-                  "Neural Net from scratch - NumPy vs PyTorch"],
     "portfolio": "https://portfolio-hnb0.onrender.com/",
     "open_to":   "Internships · ML collaborations · Open source"
 }
@@ -48,30 +43,7 @@ divyadharshini = {
 
 <!-- Add more roles/internships here as you take them on -->
 
----
 
-## Featured projects
-
-**ShiftSafe AI — Occupational Air Quality Exposure Prediction**
-> ML lead on a 4-person student team, under IEEE CS Bangalore Chapter IMP 2026 (Project ID: 105)
-
-- End-to-end ML workstream: model training, evaluation, ensemble optimization, and transfer learning across 6 notebooks
-- Worked alongside teammates on data pipeline, backend, and frontend, with a faculty mentor guiding the project
-- Currently in handoff, documentation, and monthly reporting phase
-
-`Python` `scikit-learn` `Ensemble Methods` `Transfer Learning` `Google Colab`
-
----
-
-**Neural Network from Scratch — NumPy vs PyTorch**
-> A from-scratch implementation comparing manual backprop against framework-driven training
-
-- Built a neural network using only NumPy, then reproduced it in PyTorch, benchmarked on XOR and moons datasets
-- Designed to deeply understand what frameworks abstract away — gradient computation, weight updates, forward/backward passes
-
-`Python` `NumPy` `PyTorch`
-
----
 
 
 ## Tech
