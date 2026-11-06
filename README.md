@@ -8,7 +8,6 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-A78BFA?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-hnb0.onrender.com/)
 [![PES University](https://img.shields.io/badge/PES_University-Computer_Science-7C3AED?style=flat-square&logo=graduation-cap&logoColor=white)](https://pes.edu)
 [![IEEE CS Bangalore](https://img.shields.io/badge/IEEE_CS_Bangalore-IMP_2026-6D28D9?style=flat-square)](https://github.com/divyadharshini-1306)
 [![Bangalore](https://img.shields.io/badge/Bangalore-India-5B21B6?style=flat-square&logo=google-maps&logoColor=white)](https://github.com/divyadharshini-1306)
@@ -24,9 +23,8 @@ ML/AI student at PES University with a concept-first approach to learning  I pre
 
 ```python
 divyadharshini = {
-    "focus":     ["machine learning", "deep learning", "applied AI"],
-    "portfolio": "https://portfolio-hnb0.onrender.com/",
-    "open_to":   "Internships · ML collaborations · Open source"
+    "focus":     ["machine learning", "Web Development", "applied AI"],
+       "open_to":   "Internships · ML collaborations · Open source"
 }
 ```
 
@@ -97,8 +95,6 @@ divyadharshini = {
 ## Connect
 
 <div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-hnb0.onrender.com/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyadharshini-manika-balaji-287a3134b)
 
